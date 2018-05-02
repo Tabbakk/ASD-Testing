@@ -1,0 +1,353 @@
+.btn {
+	margin-bottom:10px;
+	font-size:inherit;
+}
+
+.button {
+	padding:0;
+}
+
+.container.theme-showcase {
+	max-width:1170px;
+}
+
+.page-header {
+	margin-top:20px;
+}
+
+img.logged{
+	margin-top:40px;
+	opacity:0.25;
+}
+
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto
+}
+
+.form-signin-heading {
+	text-align:center;
+}
+
+.homepage {
+	text-align:center;
+}
+
+.homepage .img-responsive{
+	margin: 0 auto;
+}
+
+.form-signin .form-control {
+	margin-bottom:10px;
+}
+
+.form-registration {
+	max-width: 800px;
+	padding: 15px;
+	margin: 0 auto
+}
+
+.form-registration #bdate {
+	padding: 0px;
+}
+
+.checkbox.termsandcond{
+	text-align:center;
+	margin-top:10px;
+	margin-left:20px;
+}
+
+.termsandcond label {
+	padding-left:0;
+}
+
+.regconfirm, .closeterm {
+	margin-bottom:20px;
+}
+
+.testpagetitle {
+	text-align:center;
+}
+
+
+.testhelp {
+	padding:20px 0 40px;
+	text-align:center;
+}
+
+.attint {
+	padding-bottom:20px;
+}
+
+.warning {
+	color:red;;
+}
+
+.attint .warning {
+	margin-top:10px;
+	padding:0 10px;
+	margin-bottom:0;
+	text-align:center;
+}
+
+.attint h3{
+	margin-top:10px;
+}
+
+.attint .inizio_test {
+	border:1px solid #eee;
+	border-radius:10px;
+	padding:20px;
+	margin-bottom:20px;
+}
+
+.page-header.aqtest, .page-header.bestest, .page-header.emotatttest, .page-header.eyestasktest, .page-header.qetest, .page-header.socialsittest, .page-header.tomtest{
+	background-color:#eee;
+	padding:20px;
+	border-radius: 10px 10px 0 0;
+}
+
+.page-header.attinttest {
+	background-color:#eee;
+	padding:20px 20px 0px;
+	border-radius: 10px 10px 0 0;
+}
+
+
+.page-header.aqtest h4, .page-header.bestest h4, .page-header.emotatttest h4, .page-header.eyestasktest h4, .page-header.qetest h4, .page-header.socialsittest h4, .page-header.tomtest h4{
+	text-decoration:underline;
+	margin-bottom: 40px;
+}
+
+.page-header.attinttest .question{
+	margin:0 auto 20px;
+}
+
+.page-header.attinttest h4{
+	text-decoration:underline;
+	display:inline;
+}
+
+.page-header.attinttest p {
+	margin-top:10px;
+	display:inline;
+}
+
+.aqtest .row, .bestest .row, .eyestasktest .row, .qetest .row, .socialsittest .row, .tomtest .row{
+	margin: 0px auto 40px;
+	max-width:900px;
+}
+
+.attinttest .answ, .emotatttest .row, .tom .row {
+	margin: 0px auto 10px;
+	max-width:900px;
+}
+
+.aqtest label, .qetest label, .socialsittest label, .tomtest label{
+
+}
+
+.aqtest .answ, .qetest .answ, .socialsittest .answ, .tomtest .answ {
+	padding:10px 0px 10px 10px;
+}
+
+ .bestest label {
+	padding:20px 0;
+	margin-left:10px;
+ }
+
+.aqresults h3, .attintresults h3 , .besresults h3 , .emotattresults h3, .eyestaskresults h3, .qeresults h3, .socialsitresults h3, .tomresults h3 {
+	margin-bottom:40px;
+	text-align:center;
+}
+
+.attinttest .aimg {
+	text-align:center;
+}
+
+.attinttest .aimg label{
+	text-align:left;
+}
+
+.attinttest .qimg img, .attinttest .aimg img{
+	border-radius:10px;
+	border:1px solid black;
+	margin:10px auto;
+	max-height:200px;
+	
+}
+
+.emotatttest .counter, .emotatttest .answbox, .tom .counter, .tomtest .answbox, .emotatttest .countcontainer, .tom .countcontainer{
+	text-align:center;
+}
+
+.emotatttest .countcontainer, .tom .countcontainer {
+	padding:0;
+}
+
+.emotatttest .answ, .emotatttest .countcontainer, .tom .countcontainer {
+	margin-top:10px;
+}
+
+.eyestasktest .eyes img{
+	padding:0;
+	border-radius:10px;
+}
+
+ .eyestaskyest label {
+	padding-left:60px;
+	margin-bottom:20px;
+ }
+ 
+ .page-header.stats h2{
+	text-align:center;
+	margin-bottom:40px;
+ }
+ 
+ .page-header.ptests h2, .page-header.ptestsview h2, .page-header.uprofile h2, .page-header.cgroup h2, .page-header.pview h2{
+	text-align:center; 
+ }
+ 
+ .page-header.cgroup h2{
+	margin-bottom:40px;
+ }
+ 
+ .testslist h3{
+	margin-bottom:20px;
+ }
+ 
+  .testslist .test .list p {
+	margin-bottom:0;
+  }
+  .testslist .test .list .last {
+	margin-bottom:20px;
+  }
+ 
+.stats h4, .stats h3, .stats h1{
+	text-align:center;
+	margin-bottom:20px;
+}  
+ 
+ .stats .test {
+	margin-bottom:40px;
+ }
+ 
+.tomansw, .emotattansw {
+	border:1px solid #eee;
+	border-radius:10px;
+	padding:20px;
+	margin-bottom:20px;
+ }
+
+.tomansw .answer, .emotattansw .answer {
+		border-left:1px solid #eee;
+		text-align:center;
+}
+
+.tom .radio{
+	text-align:center;
+}
+
+.tom .answbox{
+	word-break: break-all;
+	resize:none;
+}
+
+.extactive {
+	text-align:center;
+}
+
+.testslist .test {
+	margin-bottom:40px;
+}
+
+.testslist .test .list{
+	border: 1px solid #eee;
+	border-radius:10px;
+}
+
+.attint_view .seq, .attint_view .answ {
+	padding:20px;
+    vertical-align: middle;
+    float: none;
+}
+
+.attint_view .seq {
+	border-left:1px solid #eee;
+	border-right:1px solid #eee;
+}
+
+.attint_view  .num, .eyestask_view  .num{
+    vertical-align: middle;
+    float: none;
+	text-align:center;
+}
+
+.eyestask_view  .answ{
+    vertical-align: middle;
+    float: none;
+}
+
+.eyestask_view  img{
+	max-height:200px;
+	margin: 0 auto;
+}
+
+.attint_view th, .aq_view th, .bes_view th, .eyestask_view th, .plist th, .plist td{
+	text-align:center;
+}
+
+.psearch.buttons {
+	margin-top:20px;
+}
+
+.psearch h2{
+	text-align:center;
+}
+
+.ptests .active{
+	font-size: 1em;
+}
+
+.patient th, .patient td  {
+	text-align:center;
+}
+
+.patient table {
+	margin-top:20px;
+}
+
+.ptests .active .nactive{
+	color:red;
+}
+
+.uprofile .table td{
+	text-align:center;
+}
+
+.umodify h2{
+	text-align:center;
+	margin-top:0;
+}
+
+.pform h2, .pregister h2, .pmodify h2, .peliminate h2, .dform h2, .dregister h2, .dsearch h2, .deliminate h2 {
+	text-align:center;
+}
+
+.peliminate p, .peliminate h4 , .deliminate p, .deliminate h4 {
+	display:inline;
+}
+
+.peliminate .confirm, .deliminate .confirm{
+	text-align:center;
+	margin:20px auto 40px;
+}
+
+.admin .check{
+	width:unset;
+}
+
+.dsearch .admin {
+	text-align:center;
+}
